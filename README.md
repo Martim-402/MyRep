@@ -1,2 +1,2 @@
 # MyRep
-Repositóriopara conta do github
+Repositório para conta do github
